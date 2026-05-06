@@ -1,6 +1,6 @@
 # Slider | Front-end Project
 
-This project is a **simple and responsive image slider**, created using the guide provided by [Coddy.tech](https://coddy.tech/courses/slider__frontend_project). It demonstrates how to design an interactive slider using **HTML, CSS, and JavaScript** to create a visually appealing, responsive user interface.
+This project is a **simple and responsive card slider**, created using the guide provided by [Coddy.tech](https://coddy.tech/courses/slider__frontend_project). It demonstrates how to design an interactive slider using **HTML, CSS, and JavaScript** to create a visually appealing, responsive user interface.
 
 ## Features
 - **Responsive Slider**: A flexible and adaptive slider that adjusts to different screen sizes.
