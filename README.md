@@ -17,7 +17,7 @@ This project is a **simple and responsive card slider**, created using the guide
 ## Usage
 To view the project:
 1. Download or clone the repository.
-2. Open the `index.html` file in a web browser to explore the image slider.
+2. Open the `index.html` file in a web browser to explore the card slider.
 
 ## Customization
 If you'd like to modify the slider:
